@@ -1,2 +1,3 @@
 qalaysan
 get pull buyrug'i uchun o'zgarish
+git fetch buygi uchun bazi o'zgarishlar
